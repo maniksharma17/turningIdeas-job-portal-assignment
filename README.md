@@ -15,7 +15,6 @@ The application allows workers to:
 - Browse available job listings
 - View job details
 - Apply for jobs
-- Manage their application status
 
 This project focuses on the **employee-side flow**, fully built by replicating the provided Figma design.
 
