@@ -3,6 +3,11 @@ Screen Recording of the Mobile Application: https://drive.google.com/file/d/1VXs
 
 This is a React Native mobile application built as part of an assignment for **Turning Ideas Ventures**. The app is a job portal designed for manual labourers such as electricians, plumbers, and technicians.
 
+## ✅ Get Started
+Run the following commands in root directory of the download folder
+1. ```npm install```
+2. ```npm run android```
+
 ## 📱 Overview
 
 The application allows workers to:
