@@ -1,4 +1,5 @@
 # Job Portal - Employee Flow (Turning Ideas Ventures)
+Screen Recording of the Mobile Application: https://drive.google.com/file/d/1VXsfPUpl_kFitGdqcE9B3DqkLHFcqlT4/view?usp=sharing
 
 This is a React Native mobile application built as part of an assignment for **Turning Ideas Ventures**. The app is a job portal designed for manual labourers such as electricians, plumbers, and technicians.
 
